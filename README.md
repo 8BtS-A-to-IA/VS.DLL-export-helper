@@ -5,7 +5,7 @@ Export helper is an assistant application tool for Visual Studio DLL specific pr
 VS.DLL.EH was prominently made for streamlining modding RoR2 via Visual Studio and BepInEx, however the program is designed in that any project which needs to automatically duplicate a generated file upon compilation--regardless of the IDE--is able to use the executable in place of the application launched in debugging.
 
 ## Installation
-You can either clone the entire repository or go [here]() and download the executable separately.
+You can either clone the entire repository and follow the instructions in [developing](#developing) or go [here](https://github.com/8BtS-A-to-IA/VS.DLL-export-helper/blob/main/bin/Debug/exporter.exe) and download the executable separately.
 
 You can then follow the steps down in [usage](#usage) to start using the executable in your projects, or you can open it and follow the instructions in manual setup mode (either directly building and running it in VS or run the executable outside of an IDE).
 
