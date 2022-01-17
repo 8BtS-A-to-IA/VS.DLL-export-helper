@@ -1,0 +1,14 @@
+C:\Users\shado\Documents\Visual Studio 2017\Projects\exporter\exporter\bin\Debug\exporter.exe.config
+C:\Users\shado\Documents\Visual Studio 2017\Projects\exporter\exporter\bin\Debug\exporter.exe
+C:\Users\shado\Documents\Visual Studio 2017\Projects\exporter\exporter\bin\Debug\exporter.pdb
+C:\Users\shado\Documents\Visual Studio 2017\Projects\exporter\exporter\obj\Debug\exporter.csproj.CoreCompileInputs.cache
+C:\Users\shado\Documents\Visual Studio 2017\Projects\exporter\exporter\obj\Debug\exporter.exe
+C:\Users\shado\Documents\Visual Studio 2017\Projects\exporter\exporter\obj\Debug\exporter.pdb
+C:\Users\shado\Documents\Visual Studio 2017\Projects\exporter\exporter\obj\Debug\exporter.csproj.AssemblyReference.cache
+C:\Users\shado\source\repos\VS.DLL-export-helper\bin\Debug\exporter.exe.config
+C:\Users\shado\source\repos\VS.DLL-export-helper\bin\Debug\exporter.exe
+C:\Users\shado\source\repos\VS.DLL-export-helper\bin\Debug\exporter.pdb
+C:\Users\shado\source\repos\VS.DLL-export-helper\obj\Debug\exporter.csproj.AssemblyReference.cache
+C:\Users\shado\source\repos\VS.DLL-export-helper\obj\Debug\exporter.csproj.CoreCompileInputs.cache
+C:\Users\shado\source\repos\VS.DLL-export-helper\obj\Debug\exporter.exe
+C:\Users\shado\source\repos\VS.DLL-export-helper\obj\Debug\exporter.pdb
